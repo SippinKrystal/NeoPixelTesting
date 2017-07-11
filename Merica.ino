@@ -1,3 +1,5 @@
+//Create a US flag in an 8x5 NeoPixel Shield
+
 //Include the NeoPixel library
 #include <Adafruit_NeoPixel.h>
 
